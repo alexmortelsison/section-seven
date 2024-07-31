@@ -51,5 +51,10 @@ public class Car {
     this.color = color;
   }
 
+  public void drive() {
+    System.out.println("\nYou bought the beautiful " + year + " " + color + " " + make + " for $" + price + ".");
+    System.out.println("Please drive your car to the nearest exit.");
+  }
+
   
 }
