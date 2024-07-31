@@ -6,6 +6,7 @@ public class Main {
     Car nissan2 = new Car(nissan);
 
     System.out.println(nissan);
+    System.out.println(dodge);
 
   }
 }
